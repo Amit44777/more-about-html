@@ -1,0 +1,5 @@
+.div, section{
+    display: flex;
+    padding: 30px;
+    background-color: antiquewhite;
+}
